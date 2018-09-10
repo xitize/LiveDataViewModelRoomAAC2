@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LiveData-ViewModel-Room-AAC</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_word">Enter new word</string>
+    <string name="button_save">save</string>
+    <string name="empty_not_saved">Empty not saved</string>
+</resources>
